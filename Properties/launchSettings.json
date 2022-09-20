@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PNH-Queue-Processor": {
+      "commandName": "Project",
+      "commandLineArgs": "local messages"
+    }
+  }
+}

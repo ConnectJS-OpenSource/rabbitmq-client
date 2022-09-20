@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNH-Queue-Processor", "PNH-Queue-Processor.csproj", "{BE3FE746-3616-4EAE-9F6E-86246CA0E072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3FE746-3616-4EAE-9F6E-86246CA0E072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3FE746-3616-4EAE-9F6E-86246CA0E072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3FE746-3616-4EAE-9F6E-86246CA0E072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3FE746-3616-4EAE-9F6E-86246CA0E072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA0E254-D7CF-4428-BE6A-82E6EB84A4D0}
+	EndGlobalSection
+EndGlobal
